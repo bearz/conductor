@@ -32,3 +32,6 @@ your long awaited response sitting there!
 I don't know if it would ever make it to a real framework, since the gap of features required to complete it is quite big and there are already 
 tons of good solutions out there, proven with time and community. But it was a fun learning exercise and thought project, and I plan to use 
 it more on pet-projects. I'll update the doc if something changes. 
+
+## Docs
+There are a lot of comments in core.cljs file that explain in more details how it works.
