@@ -29,7 +29,7 @@ immediately. Otherwise, let the "big man" to do his job and as soon as the threa
 your long awaited response sitting there! 
 
 ## What's next? 
-I don't know if it would ever make it to a real framework, since the gap of features required to complete it is quite big and there are already 
+I don't know if it would ever make to a real framework, since the gap of features required to complete it is quite big and there are already 
 tons of good solutions out there, proven with time and community. But it was a fun learning exercise and thought project, and I plan to use 
 it more on pet-projects. I'll update the doc if something changes. 
 
